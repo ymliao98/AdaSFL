@@ -1,0 +1,278 @@
+{
+  "scripts_path": {
+    "local": "/data/ymliao/PS_SL/client_module/",
+    "remote": "/data/ymliao"
+  },
+  "worker_config_list": [
+    {
+      "ip_address": "192.168.0.46",
+      "user_name": "nx06",
+      "pass_wd": "nx06",
+      "listen_port": 47006,
+      "master_port": 57006,
+      "computation": 8,
+      "dynamics": 2
+    },
+    {
+      "ip_address": "192.168.0.47",
+      "user_name": "nx07",
+      "pass_wd": "nx07",
+      "listen_port": 47007,
+      "master_port": 57007,
+      "computation": 4,
+      "dynamics": 3
+    },
+    {
+      "ip_address": "192.168.0.48",
+      "user_name": "nx08",
+      "pass_wd": "nx08",
+      "listen_port": 47008,
+      "master_port": 57008,
+      "computation": 5,
+      "dynamics": 4
+    },
+    {
+      "ip_address": "192.168.0.49",
+      "user_name": "nx09",
+      "pass_wd": "nx09",
+      "listen_port": 47009,
+      "master_port": 57009,
+      "computation": 6,
+      "dynamics": 2
+    },
+    {
+      "ip_address": "192.168.0.50",
+      "user_name": "nx10",
+      "pass_wd": "nx10",
+      "listen_port": 47010,
+      "master_port": 57010,
+      "computation": 3,
+      "dynamics": 2
+    },
+    {
+      "ip_address": "192.168.0.16",
+      "user_name": "edge06",
+      "pass_wd": "edge06",
+      "listen_port": 47006,
+      "master_port": 57006,
+      "computation": 8,
+      "dynamics": 2
+    },
+    {
+      "ip_address": "192.168.0.17",
+      "user_name": "edge07",
+      "pass_wd": "edge07",
+      "listen_port": 47007,
+      "master_port": 57007,
+      "computation": 4,
+      "dynamics": 3
+    },
+    {
+      "ip_address": "192.168.0.18",
+      "user_name": "edge08",
+      "pass_wd": "edge08",
+      "listen_port": 47008,
+      "master_port": 57008,
+      "computation": 5,
+      "dynamics": 4
+    },
+    {
+      "ip_address": "192.168.0.19",
+      "user_name": "edge09",
+      "pass_wd": "edge09",
+      "listen_port": 47009,
+      "master_port": 57009,
+      "computation": 6,
+      "dynamics": 2
+    },
+    {
+      "ip_address": "192.168.0.20",
+      "user_name": "edge10",
+      "pass_wd": "edge10",
+      "listen_port": 47010,
+      "master_port": 57010,
+      "computation": 3,
+      "dynamics": 2
+    },
+    {
+      "ip_address": "192.168.0.41",
+      "user_name": "nx01",
+      "pass_wd": "nx01",
+      "listen_port": 47006,
+      "master_port": 57006,
+      "computation": 8,
+      "dynamics": 2
+    },
+    {
+      "ip_address": "192.168.0.42",
+      "user_name": "nx02",
+      "pass_wd": "nx02",
+      "listen_port": 47007,
+      "master_port": 57007,
+      "computation": 4,
+      "dynamics": 3
+    },
+    {
+      "ip_address": "192.168.0.43",
+      "user_name": "nx03",
+      "pass_wd": "nx08",
+      "listen_port": 47008,
+      "master_port": 57008,
+      "computation": 5,
+      "dynamics": 4
+    },
+    {
+      "ip_address": "192.168.0.44",
+      "user_name": "nx04",
+      "pass_wd": "nx04",
+      "listen_port": 47009,
+      "master_port": 57009,
+      "computation": 6,
+      "dynamics": 2
+    },
+    {
+      "ip_address": "192.168.0.45",
+      "user_name": "nx05",
+      "pass_wd": "nx05",
+      "listen_port": 47010,
+      "master_port": 57010,
+      "computation": 3,
+      "dynamics": 2
+    },
+    {
+      "ip_address": "192.168.0.11",
+      "user_name": "edge01",
+      "pass_wd": "edge01",
+      "listen_port": 47006,
+      "master_port": 57006,
+      "computation": 8,
+      "dynamics": 2
+    },
+    {
+      "ip_address": "192.168.0.12",
+      "user_name": "edge02",
+      "pass_wd": "edge02",
+      "listen_port": 47007,
+      "master_port": 57007,
+      "computation": 4,
+      "dynamics": 3
+    },
+    {
+      "ip_address": "192.168.0.13",
+      "user_name": "edge03",
+      "pass_wd": "edge03",
+      "listen_port": 47008,
+      "master_port": 57008,
+      "computation": 5,
+      "dynamics": 4
+    },
+    {
+      "ip_address": "192.168.0.14",
+      "user_name": "edge04",
+      "pass_wd": "edge04",
+      "listen_port": 47009,
+      "master_port": 57009,
+      "computation": 6,
+      "dynamics": 2
+    },
+    {
+      "ip_address": "192.168.0.15",
+      "user_name": "edge05",
+      "pass_wd": "edge05",
+      "listen_port": 47010,
+      "master_port": 57010,
+      "computation": 3,
+      "dynamics": 2
+    },
+    {
+      "ip_address": "192.168.0.51",
+      "user_name": "nx11",
+      "pass_wd": "nx11",
+      "listen_port": 47006,
+      "master_port": 57006,
+      "computation": 8,
+      "dynamics": 2
+    },
+    {
+      "ip_address": "192.168.0.52",
+      "user_name": "nx12",
+      "pass_wd": "nx12",
+      "listen_port": 47007,
+      "master_port": 57007,
+      "computation": 4,
+      "dynamics": 3
+    },
+    {
+      "ip_address": "192.168.0.53",
+      "user_name": "nx13",
+      "pass_wd": "nx13",
+      "listen_port": 47008,
+      "master_port": 57008,
+      "computation": 5,
+      "dynamics": 4
+    },
+    {
+      "ip_address": "192.168.0.54",
+      "user_name": "nx14",
+      "pass_wd": "nx14",
+      "listen_port": 47009,
+      "master_port": 57009,
+      "computation": 6,
+      "dynamics": 2
+    },
+    {
+      "ip_address": "192.168.0.55",
+      "user_name": "nx15",
+      "pass_wd": "nx15",
+      "listen_port": 47010,
+      "master_port": 57010,
+      "computation": 3,
+      "dynamics": 2
+    },
+    {
+      "ip_address": "192.168.0.21",
+      "user_name": "edge11",
+      "pass_wd": "edge11",
+      "listen_port": 47006,
+      "master_port": 57006,
+      "computation": 8,
+      "dynamics": 2
+    },
+    {
+      "ip_address": "192.168.0.22",
+      "user_name": "edge12",
+      "pass_wd": "edge12",
+      "listen_port": 47007,
+      "master_port": 57007,
+      "computation": 4,
+      "dynamics": 3
+    },
+    {
+      "ip_address": "192.168.0.23",
+      "user_name": "edge13",
+      "pass_wd": "edge13",
+      "listen_port": 47008,
+      "master_port": 57008,
+      "computation": 5,
+      "dynamics": 4
+    },
+    {
+      "ip_address": "192.168.0.24",
+      "user_name": "edge14",
+      "pass_wd": "edge14",
+      "listen_port": 47009,
+      "master_port": 57009,
+      "computation": 6,
+      "dynamics": 2
+    },
+    {
+      "ip_address": "192.168.0.25",
+      "user_name": "edge15",
+      "pass_wd": "edge15",
+      "listen_port": 47010,
+      "master_port": 57010,
+      "computation": 3,
+      "dynamics": 2
+    }
+  ]
+}
